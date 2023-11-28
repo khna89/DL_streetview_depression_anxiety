@@ -1,4 +1,4 @@
-# DL_streetview_depression_anxiety
+# Explainable Deep Learning for Depression and Anxiety Prediction from Street View Images
 This code is supplementary to Khodorivsko, N., & Spigler, G. (2023). Predicting Depression and Anxiety Risk in Dutch Neighborhoods from Street-View Images (in BNAIC/BeNeLearn 2023 pre-proceedings) https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_62.e795d9519efb7971e25f.pdf .
 
 Depression and anxiety disorders are prevalent mental health challenges affecting a substantial segment of the global population. In this study, we explored the environmental correlates of these disorders by analyzing street-view images (SVI) of neighborhoods in the Netherlands. Our dataset comprises 9,879 Dutch SVIs sourced from Google Street View, paired with statistical depression and anxiety risk metrics from the Dutch Health Monitor.
