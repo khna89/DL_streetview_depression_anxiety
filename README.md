@@ -6,6 +6,8 @@ This code is supplementary to Khodorivsko, N., & Spigler, G. (2023). Predicting 
 - model loading, fine-tuning experiments and evaluation of performance: DeiT (transformer), ResNet (CNN).
 - applying SHAP and gradient rollout on the collected dataset and fine-tuned models.
 
+Note that the code is very easily adjustable to connect street view imanges (SVI) to any of the many statistics of the Dutch Health Monitor (Gezondheidsmonitor). We encourage to experiment with looking for the predictability of health-related variables based on the SVI, as prior research suggests it should be present, and there is a lack of research on direct and explainable prediction of these variables from SVI.
+
 ### More on the research done
 Depression and anxiety disorders are prevalent mental health challenges affecting a substantial segment of the global population. In this study, we explored the environmental correlates of these disorders by analyzing street-view images (SVI) of neighborhoods in the Netherlands. Our dataset comprises 9,879 Dutch SVIs sourced from Google Street View, paired with statistical depression and anxiety risk metrics from the Dutch Health Monitor.
 
